@@ -1,0 +1,13 @@
+##### useradd
+##### userdel
+##### passwd
+##### chpasswd
+##### chsh
+##### chfn
+##### usermod
+##### users
+##### who
+##### w
+##### last
+##### his
+##### whoami
