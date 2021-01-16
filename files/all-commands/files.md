@@ -3,19 +3,24 @@
 **Create File**
 ```bash
 touch : Update the access and modification times of each FILE to the current time.
+```
+```bash
 mkdir : Create the DIRECTORY(ies), if they do not already exist.
-mktemp
+```
+
+```bash
+mktemp : The mktemp command creates a temporary file or directory safely and prints its name. All files and directories will be saved in the system's temporary directory, i.e /tmp.
 ```
 
 **Delete File**
 ```bash
-rm
-rmdir
+rm : remove a file.
+rmdir : remove empty directories from the filesystem in Linux..
 ```
 **Find Files**
 ```bash
-find
-locate
+find :find command is used to search and locate the list of files and directories based on conditions you specify for files that match the arguments.
+locate : similary to find command but locate reads one or more databases prepared by updatedb.
 ```
 **Others**
 ```bash
